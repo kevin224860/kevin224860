@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Data structures & Algorithms and AI/Machine learning 
+- 🏫 I am currently enrolled in a BSc in Computer Science at Trent University 
+- ⚡ Fun fact about me, I play the piano and I am in level 10 at the Royal Conservatory of Music
 <!--
 **kevin224860/kevin224860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
